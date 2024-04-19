@@ -1,0 +1,13 @@
+.bg-container {
+    background-image: url('foreignMoney.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 2000px;
+}
+
+#conversion {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
